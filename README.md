@@ -10,7 +10,7 @@
 ### Languages
 
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/adamwarfa)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/adamwarfa)
+[![Java](https://img.shields.io/badge/openjdk-black?style=for-the-badge&logo=openjdk)](https://github.com/adamwarfa)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/adamwarfa)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/adamwarfa)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/adamwarfa)
