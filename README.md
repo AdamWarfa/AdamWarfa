@@ -14,8 +14,6 @@
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/adamwarfa)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mariadb)](https://github.com/adamwarfa)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/adamwarfa)
-[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/adamwarfa)
-[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/adamwarfa)
 
 ### Technologies & Frameworks
 
