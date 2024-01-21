@@ -24,7 +24,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://github.com/adamwarfa)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/adamwarfa)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/adamwarfa)
-[![Babel](https://img.shields.io/badge/babel-black?style=for-the-badge&logo=babel)](https://github.com/adamwarfa)
 [![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://github.com/adamwarfa)
 [![React Native](https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react)](https://github.com/adamwarfa)
 [![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo)](https://github.com/adamwarfa)
