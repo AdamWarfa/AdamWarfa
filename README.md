@@ -47,4 +47,4 @@
 [![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello)](https://github.com/adamwarfa)
 [![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop)](https://github.com/adamwarfa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/adamwarfa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwarfa&hide=css,html&layout=compact)](https://github.com/adamwarfa/github-readme-stats)
