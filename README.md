@@ -18,7 +18,7 @@
 ### Technologies & Frameworks
 
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
-[![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)]((https://expressjs.com/))
+[![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring-boot)](https://spring.io/)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
@@ -31,13 +31,13 @@
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/))
+[![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/en-us/)
 
 ### OS
 
-[![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=apple)](https://www.apple.com/))
-[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows))
+[![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=apple)](https://www.apple.com/)
+[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
 [![Fedora KDE](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://fedoraproject.org/)
 
 ### Other
