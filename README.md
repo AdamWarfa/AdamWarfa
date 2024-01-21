@@ -7,7 +7,7 @@
     </i><br>
 </p>
 
-### Languages
+### 👨‍💻 -Languages
 
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/en/)
@@ -15,7 +15,7 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mariadb)](https://www.w3schools.com/sql/sql_intro.asp)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
-### Technologies & Frameworks
+### ⚙️ -Technologies & Frameworks
 
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
@@ -34,13 +34,13 @@
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/en-us/)
 
-### OS
+### 🖥️ -OS
 
 [![Mac](https://img.shields.io/badge/mac-black?style=for-the-badge&logo=apple)](https://www.apple.com/)
 [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://www.microsoft.com/en-us/windows)
 [![Fedora KDE](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://fedoraproject.org/)
 
-### Other
+### 📱 -Other
 
 [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
 [![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello)](https://trello.com/home)
