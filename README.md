@@ -10,14 +10,14 @@
 ### Languages
 
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/adamwarfa)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/adamwarfa)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://expressjs.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/adamwarfa)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mariadb)](https://github.com/adamwarfa)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/adamwarfa)
 
 ### Technologies & Frameworks
 
-[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/adamwarfa)
+[![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/adamwarfa)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring-boot)](https://github.com/adamwarfa)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/adamwarfa)
