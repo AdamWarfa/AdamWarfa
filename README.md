@@ -21,7 +21,7 @@
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
 [![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Fiber](https://img.shields.io/badge/fiber-black?style=for-the-badge&logo=goland)](https://gofiber.io/)
-[![Gin](https://img.shields.io/badge/gin-black?style=for-the-badge&logo=gin)](https://go.dev/)
+[![Gin](https://img.shields.io/badge/gin-black?style=for-the-badge&logo=gin)](https://gin-gonic.com/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring-boot)](https://spring.io/)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
