@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        Hi, I'm Adam, a passionate software engineer from Denmark.<br>
+        I'm Adam, an aspiring software engineer from Denmark, eager to learn and contribute my skills in crafting innovative solutions.<br>
     </i><br>
 </p>
 
