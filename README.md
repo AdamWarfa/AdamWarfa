@@ -52,5 +52,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwarfa&hide=css,html&layout=pie&theme=transparent&hide_border=true&title_color=e6edf3&text_color=e6edf3)](https://github.com/AdamWarfa)
 
 
-Profile Picture by Ashley McNamara - find her stuff [here](https://github.com/ashleymcnamara/gophers/tree/master)
+Profile Picture based on work by Ashley McNamara - find her stuff [here](https://github.com/ashleymcnamara/gophers/tree/master)
 
