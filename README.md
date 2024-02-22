@@ -47,6 +47,7 @@
 
 [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://www.postman.com/)
 [![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=trello)](https://trello.com/home)
+[![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)](https://www.atlassian.com/software/jira)
 [![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop)](https://www.adobe.com/products/photoshop.html)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamwarfa&hide=css,html&layout=compact&theme=transparent&hide_border=true&title_color=e6edf3&text_color=e6edf3)](https://github.com/AdamWarfa)
