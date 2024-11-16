@@ -22,11 +22,12 @@
 [![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Fiber](https://img.shields.io/badge/fiber-black?style=for-the-badge&logo=goland)](https://gofiber.io/)
 [![Gin](https://img.shields.io/badge/gin-black?style=for-the-badge&logo=gin)](https://gin-gonic.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=spring-boot)](https://spring.io/)
+[![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)](https://spring.io/)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![Githb Actions](https://img.shields.io/badge/github%20actions-black?style=for-the-badge&logo=github-actions)](https://github.com/features/actions)
 [![Vite](https://img.shields.io/badge/vite-black?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![React Native](https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo)](https://expo.dev/)
@@ -36,6 +37,12 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/en-us/)
+<!---
+[![Prometheus](https://img.shields.io/badge/prometheus-black?style=for-the-badge&logo=prometheus)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=grafana)](https://grafana.com/)
+[![Vue](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
+
+-->
 
 ### 🖥️ -OS
 
