@@ -37,9 +37,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoft-azure)](https://azure.microsoft.com/en-us/)
-<!---
 [![Prometheus](https://img.shields.io/badge/prometheus-black?style=for-the-badge&logo=prometheus)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=grafana)](https://grafana.com/)
+<!---
 [![Vue](https://img.shields.io/badge/vue.js-black?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
 
 -->
